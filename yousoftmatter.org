@@ -20,16 +20,20 @@
     Title can be set in the file [[./config/_default/config.yaml][config.yaml]] through the entry /tile/.
 
     Menu is set using the file [[./config/_default/menus.yaml][menus.yaml]]. Each entry has a /name/, which is the string appears on the webpage menu. The webpage that the entry directing to is stored in a directory in /content/, whose name is specified in the /url/ property in [[./config/_default/menus.yaml][menus.yaml]]. The /weight/ of each entry in [[./config/_default/menus.yaml][menus.yaml]] determines the order of appearance of these menus ascendingly. 
-*** Home page
+*** Home
     The main contents of home page is in directory [[./content/home/][home]]. The files are:
 
     [[./content/home/index.md][index.md]]
 
     [[./content/home/welcome.md][welcome.md]]: sets the welcome message and image that show up on top of the home page.
 
-    [[./content/home/news.md][news.md]]: news from the group.
+    [[./content/home/news.md][news.md]]: latest news from the group, whose content is in [[./content/news][news directory]]. The variable /count/ in /content/ entry determines the total number of news showing up on the home page. The /view/ variable in /design/ entry determines how much detail to show up here.
+
+    [[./content/home/news.md][publications.md]]: recent publications from the group, whose content is in [[./content/publication][publications directory]]. The setting is similar to [[./content/home/news.md][news.md]].
 
     [[./content/home/cta.md][cta.md]]: buttons for quick access of certain contents.
+*** Research
+*** News
     
     
    

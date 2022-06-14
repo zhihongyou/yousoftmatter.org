@@ -8,7 +8,7 @@ title: Latest News
 subtitle:
 
 content:
-  count: 6  # Total number of news showing up on home page.
+  count: 1  # Total number of news showing up on home page.
   filters:
     author: ''
     category: ''
