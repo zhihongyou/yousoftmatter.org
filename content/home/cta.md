@@ -2,6 +2,7 @@
 title:
 subtitle:
 widget: blank
+draft: true
 headless: true
 weight: 40
 design:

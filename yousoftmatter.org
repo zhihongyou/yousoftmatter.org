@@ -1,0 +1,35 @@
+* YOUSOFTMATTER.ORG
+* Instructions
+** Hugo command
+*** Real-time editing
+    Run /hugo server/ in the hugo root directory, then open the local url on the browser to check real-time appearance of website while editing.
+** Global configurations
+   The global configuration is done using files in [[./config/_default/][this directory]]. Particularly:
+
+   [[./config/_default/config.yaml][config.yaml]]: sets some global configuration of the website, especially the /tile/ of the webpage and the /baseURL/.
+
+   [[./config/_default/menus.yaml][menus.yaml]]: sets the global menus of the websites. Each entry has a /name/, which is the string appears on the webpage menu. The webpage that the entry directing to is stored in a directory in /content/, whose name is specified in the /url/ property in [[./config/_default/menus.yaml][menus.yaml]]. The /weight/ of each entry in [[./config/_default/menus.yaml][menus.yaml]] determines the order of appearance of these menus ascendingly. More details can be found [[https://gohugo.io/variables/menus/][here]].
+
+   [[./config/_default/languages.yaml][languages.yaml]]: sets the languages.
+** Variables
+   The variable 'weight' sets the order of appearance.
+** Webpages appearances
+*** Title and menu
+    Title and menu appear on top of all web pages.
+
+    Title can be set in the file [[./config/_default/config.yaml][config.yaml]] through the entry /tile/.
+
+    Menu is set using the file [[./config/_default/menus.yaml][menus.yaml]]. Each entry has a /name/, which is the string appears on the webpage menu. The webpage that the entry directing to is stored in a directory in /content/, whose name is specified in the /url/ property in [[./config/_default/menus.yaml][menus.yaml]]. The /weight/ of each entry in [[./config/_default/menus.yaml][menus.yaml]] determines the order of appearance of these menus ascendingly. 
+*** Home page
+    The main contents of home page is in directory [[./content/home/][home]]. The files are:
+
+    [[./content/home/index.md][index.md]]
+
+    [[./content/home/welcome.md][welcome.md]]: sets the welcome message and image that show up on top of the home page.
+
+    [[./content/home/news.md][news.md]]: news from the group.
+
+    [[./content/home/cta.md][cta.md]]: buttons for quick access of certain contents.
+    
+    
+   
