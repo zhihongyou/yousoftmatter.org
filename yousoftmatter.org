@@ -33,6 +33,11 @@
 
     [[./content/home/cta.md][cta.md]]: buttons for quick access of certain contents.
 *** Research
+*** Publications    
+**** Generating publications and authors from bibtex
+     The /academic/ package provides a package to automatically generate both publication records and author profiles from bibtex file. To install the package, run /pip3 install -U academic/ on terminal. Then, go to the site root folder, put the bibtex entries of publications in /data/publications.bib/. Then, run /academic import --bibtex data/publications.bib/ at the same directory, and the publications and authors will be generated.
+
+     For more details on the /academic/ command, see: [[https://github.com/wowchemy/hugo-academic-cli][https://github.com/wowchemy/hugo-academic-cli]].
 *** News
     
     
