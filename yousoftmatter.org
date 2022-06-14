@@ -4,6 +4,7 @@
 *** Real-time editing
     Run /hugo server/ in the hugo root directory, then open the local url on the browser to check real-time appearance of website while editing.
 ** Global configurations
+*** General settings   
    The global configuration is done using files in [[./config/_default/][this directory]]. Particularly:
 
    [[./config/_default/config.yaml][config.yaml]]: sets some global configuration of the website, especially the /tile/ of the webpage and the /baseURL/.
@@ -11,9 +12,13 @@
    [[./config/_default/menus.yaml][menus.yaml]]: sets the global menus of the websites. Each entry has a /name/, which is the string appears on the webpage menu. The webpage that the entry directing to is stored in a directory in /content/, whose name is specified in the /url/ property in [[./config/_default/menus.yaml][menus.yaml]]. The /weight/ of each entry in [[./config/_default/menus.yaml][menus.yaml]] determines the order of appearance of these menus ascendingly. More details can be found [[https://gohugo.io/variables/menus/][here]].
 
    [[./config/_default/languages.yaml][languages.yaml]]: sets the languages.
+
+*** Font size
+    To customize font, use the shortcode functionality provided by Hugo. Specifically, use:
+    /{{<typography font="Roboto" size="18px" style="normal" weight="normal" >}}  This is the text ... {{< /typography >}}/
 ** Variables
    The variable 'weight' sets the order of appearance.
-** Webpages appearances
+** Webpages
 *** Title and menu
     Title and menu appear on top of all web pages.
 

@@ -4,7 +4,9 @@ headless: true  # This file represents a page section.
 title: Research
 
 # Listing view
-view: showcase
+# view: showcase
+view: community/myshowcase
+# view: community/mycompact
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
@@ -12,7 +14,6 @@ banner:
   image: ''
 
 design:
-  # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+
 ---
 
