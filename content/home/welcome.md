@@ -20,9 +20,8 @@ design:
 
 {{<typography font="Roboto" size="24px" style="normal" weight="normal" >}}
 
-The You Soft Matter Group is mainly interested in emergence in soft active matter as well as biological systems.
-The You Soft Matter Group is mainly interested in emergence in soft active matter as well as biological systems.
-The You Soft Matter Group is mainly interested in emergence in soft active matter as well as biological systems.
-The You Soft Matter Group is mainly interested in emergence in soft active matter as well as biological systems.
+We are interested in the emergence in active/living matter. From cellular cytoskeleton to animal groups, these systems ubiquitously exhibit novel microscopic dynamics which, subsequently leads to fascinating collective dynamics. To uncover the mysteries behind these behaviors, we employ computer simulations as well as theoretical frameworks such as statistical mechanics, continuum mechanics, dynamical system, etc.
+
+Our very first goal, however, is to finish the construction of this site :).
 
 {{< /typography >}}
