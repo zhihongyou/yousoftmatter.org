@@ -37,6 +37,7 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Applied Optics*'
+publication: '*Appl. Opt. 51(35), 8341*'
 doi: 10.1364/ao.51.008341
 links:
 - name: URL

@@ -35,6 +35,7 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*American Journal of Physics*'
+publication: '*Am. J. Phys. 80(8), 688-693*'
 doi: 10.1119/1.4729607
 links:
 - name: URL

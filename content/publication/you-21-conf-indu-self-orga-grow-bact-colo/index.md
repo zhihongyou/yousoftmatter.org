@@ -34,6 +34,7 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Science Advances*'
+publication_short: '*Sci. Adv. 7(4), eabc8685*'
 doi: 10.1126/sciadv.abc8685
 links:
 - name: URL

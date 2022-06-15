@@ -35,6 +35,7 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Physical Review Letters*'
+publication_short: '*Phys. Rev. Lett. 123(17), 178001*'
 doi: 10.1103/physrevlett.123.178001
 links:
 - name: URL

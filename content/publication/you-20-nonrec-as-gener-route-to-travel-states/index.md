@@ -34,6 +34,7 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Proceedings of the National Academy of Sciences*'
+publication_short: '*Proc. Natl. Acad. Sci. U.S.A. 117(33), 19767-19772*'
 doi: 10.1073/pnas.2010318117
 links:
 - name: URL

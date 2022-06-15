@@ -48,6 +48,7 @@ abstract: We study the dynamics of a tunable 2D active nematic liquid crystal co
   and the active stress that is based on the Michaelis–Menten kinetics that governs
   the motion of individual kinesin motors.
 publication: '*Soft Matter*'
+publication: '*Soft Matter 15(15), 3264-3272*'
 doi: 10.1039/C8SM01877D
 links:
 - name: URL

@@ -35,6 +35,7 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Physical Review X*'
+publication_short: '*Phys. Rev. X 8(3), 031065*'
 doi: 10.1103/physrevx.8.031065
 links:
 - name: URL
