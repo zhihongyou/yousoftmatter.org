@@ -14,6 +14,8 @@ banner:
   image: ''
 
 design:
+  flip_alt_rows: true
+  
 
 ---
 

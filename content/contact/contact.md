@@ -55,4 +55,4 @@ design:
 
 If you have any questions or comments regarding the science we are doing, feel free to contact me or any of our group members.
 
-We have open positions every year at all level, from undergraduate internship to postdoc scholar. If you are interested in joining our group, please don't hesitate to write me an email to introduce yourself!
+We have open positions every year at all levels, from undergraduate internship to postdoc scholar. If you are interested in joining our group, please don't hesitate to write me an email to introduce yourself!

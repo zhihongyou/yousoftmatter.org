@@ -8,9 +8,31 @@ weight: 20
 
 {{<typography font="Roboto" size="18px" style="normal" weight="normal" >}}
 
+Physics with broken Newton's 3rd law.
+Physics with broken Newton's 3rd law.
+Physics with broken Newton's 3rd law.
+Physics with broken Newton's 3rd law.
+Physics with broken Newton's 3rd law.
+Physics with broken Newton's 3rd law.
+Physics with broken Newton's 3rd law.
+Physics with broken Newton's 3rd law.
+Physics with broken Newton's 3rd law.
+Physics with broken Newton's 3rd law.
+Physics with broken Newton's 3rd law.
+Physics with broken Newton's 3rd law.
+Physics with broken Newton's 3rd law.
+Physics with broken Newton's 3rd law.
+Physics with broken Newton's 3rd law.
+Physics with broken Newton's 3rd law.
+Physics with broken Newton's 3rd law.
+Physics with broken Newton's 3rd law.
+Physics with broken Newton's 3rd law.
+
 {{< /typography >}}
 
 [{{<typography font="Roboto" size="18px" style="normal" weight="normal" >}}Proc. Natl. Acad. Sci. U.S.A. 117 (33), 19767--19772 (2020){{< /typography >}}]({{< relref "/publication/you-20-nonrec-as-gener-route-to-travel-states" >}})
+
+<br />
 
 <!--more-->
 
