@@ -8,7 +8,7 @@ title: Latest News
 subtitle:
 
 content:
-  count: 1  # Total number of news showing up on home page.
+  count: 2  # Total number of news showing up on home page.
   filters:
     author: ''
     category: ''
@@ -19,6 +19,6 @@ content:
   order: desc
   page_type: news
 design:
-  view: 2   # Level of details for the news.
+  view: 2  # Level of details for the news.
   columns: '1'
 ---
