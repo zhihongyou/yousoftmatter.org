@@ -11,7 +11,7 @@ authors:
 - Luca Giomi
 tags: []
 categories: []
-date: '2018-01-01'
+date: '2018-09-12'
 lastmod: 2022-06-14T11:37:59-07:00
 featured: false
 draft: false
@@ -35,7 +35,7 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Physical Review X*'
-publication_short: '*Phys. Rev. X 8(3), 031065*'
+publication: '*Phys. Rev. X 8(3), 031065*'
 doi: 10.1103/physrevx.8.031065
 links:
 - name: URL
@@ -44,3 +44,6 @@ links:
   url: https://arxiv.org/abs/1703.04504
 url_pdf: https://arxiv.org/pdf/1703.04504.pdf
 ---
+**Abstract**:
+
+Bacterial colonies are abundant on living and nonliving surfaces and are known to mediate a broad range of processes in ecology, medicine, and industry. Although extensively researched, from single cells to demographic scales, a comprehensive biomechanical picture, highlighting the cell-to-colony dynamics, is still lacking. Here, using molecular dynamics simulations and continuous modeling, we investigate the geometrical and mechanical properties of a bacterial colony growing on a substrate with a free boundary and demonstrate that such an expanding colony self-organizes into a “mosaic” of microdomains consisting of highly aligned cells. The emergence of microdomains is mediated by two competing forces: the steric forces between neighboring cells, which favor cell alignment, and the extensile stresses due to cell growth that tend to reduce the local orientational order and thereby distort the system. This interplay results in an exponential distribution of the domain areas and sets a characteristic length scale proportional to the square root of the ratio between the system orientational stiffness and the magnitude of the extensile active stress. Our theoretical predictions are finally compared with experiments with freely growing E. coli microcolonies, finding quantitative agreement.

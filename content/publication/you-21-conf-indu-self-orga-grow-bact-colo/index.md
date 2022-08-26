@@ -10,7 +10,7 @@ authors:
 - Luca Giomi
 tags: []
 categories: []
-date: '2021-01-01'
+date: '2021-01-22'
 lastmod: 2022-06-14T11:38:00-07:00
 featured: false
 draft: false
@@ -34,7 +34,7 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Science Advances*'
-publication_short: '*Sci. Adv. 7(4), eabc8685*'
+publication: '*Sci. Adv. 7(4), eabc8685*'
 doi: 10.1126/sciadv.abc8685
 links:
 - name: URL
@@ -43,3 +43,7 @@ links:
   url: https://arxiv.org/abs/2004.14890
 url_pdf: https://arxiv.org/pdf/2004.14890.pdf
 ---
+
+**Abstract**:
+
+We investigate the emergence of global alignment in colonies of dividing rod-shaped cells under confinement. Using molecular dynamics simulations and continuous modeling, we demonstrate that geometrical anisotropies in the confining environment give rise to an imbalance in the normal stresses, which, in turn, drives a collective rearrangement of the cells. This behavior crucially relies on the colony’s solid-like mechanical response at short time scales and can be recovered within the framework of active hydrodynamics upon modeling bacterial colonies as growing viscoelastic gels characterized by Maxwell-like stress relaxation.

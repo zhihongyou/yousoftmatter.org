@@ -6,9 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - Zhihong You
-tags: []
+tags: [Leiden University PhD Thesis]
 categories: []
-date: '2019-01-01'
+date: '2019-06-25'
 lastmod: 2022-06-14T12:29:21-07:00
 featured: false
 draft: false
@@ -35,6 +35,8 @@ projects: []
 publishDate: '2022-06-14T19:29:21.042977Z'
 publication_types:
 - '7'
-abstract: ''
-publication: ''
+# abstract: ''
+publication: 'Leiden University PhD Thesis'
 ---
+
+Mechanical forces are known to play an important role in bacterial colonies. In this dissertation, we study the self-organization at various stages of growing bacterial colonies, and focus on the mechanical effects of cell growth. In a freely expanding monolayer, cell growth induces an extensile active stress, which competes with the system orientational elastic stress, resulting in a chaotic dynamics as well as the formation of nematic domains. When the colony is confined laterally, the interplay of cell growth and confinement gives rise to a globally anisotropic stress, and drives the cells to align perpendicular to the direction of confinement. For large colonies, the in-plane growth-induced stress is large to enough to compete with the vertical restoring forces from the substrate, and trigger a mono-to-multilayer transition. Despite the transition being mechanically deterministic, asynchronous cell division renders the process stochastic, so that all the critical parameters that control the onset of the transition are continuously distributed random variables. These results not only advance our understanding of the self-organization in growing bacterial colonies, but also shed new lights on the physics of growing cellular systems.

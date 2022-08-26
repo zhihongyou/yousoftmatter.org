@@ -11,7 +11,7 @@ authors:
 - Luca Giomi
 tags: []
 categories: []
-date: '2019-01-01'
+date: '2019-10-21'
 lastmod: 2022-06-14T12:02:20-07:00
 featured: false
 draft: false
@@ -35,7 +35,7 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Physical Review Letters*'
-publication_short: '*Phys. Rev. Lett. 123(17), 178001*'
+publication: '*Phys. Rev. Lett. 123(17), 178001*'
 doi: 10.1103/physrevlett.123.178001
 links:
 - name: URL
@@ -44,3 +44,7 @@ links:
   url: https://arxiv.org/abs/1811.08875
 url_pdf: https://arxiv.org/pdf/1811.08875.pdf
 ---
+
+**Abstract**:
+
+The transition from monolayers to multilayered structures in bacterial colonies is a fundamental step in biofilm development. Observed across different morphotypes and species, this transition is triggered within freely growing bacterial microcolonies comprising a few hundred cells. Using a combination of numerical simulations and analytical modeling, here we demonstrate that this transition originates from the competition between growth-induced in-plane active stresses and vertical restoring forces, due to the cell-substrate interactions. Using a simple chainlike colony of laterally confined cells, we show that the transition sets when individual cells become unstable to rotations; thus it is localized and mechanically deterministic. Asynchronous cell division renders the process stochastic, so that all the critical parameters that control the onset of the transition are continuously distributed random variables. Here we demonstrate that the occurrence of the first division in the colony can be approximated as a Poisson process in the limit of large cell numbers. This allows us to approximately calculate the probability distribution function of the position and time associated with the first extrusion. The rate of such a Poisson process can be identified as the order parameter of the transition, thus highlighting its mixed deterministic-stochastic nature.

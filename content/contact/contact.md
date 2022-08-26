@@ -15,10 +15,10 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: youz@ucsb.edu
-  phone: 888 888 88 88
+  email: zhyou@xmu.edu.cn
+  # phone: +86-13625901392
   address:
-    street: 1 West ZengCuoAn Road, Haibin Rd, Siming District
+    street: Physics Building 222, 9 West Zengcuoan Street, Siming District
     city: Xiamen
     region: Fujian
     postcode: '361005'
@@ -27,7 +27,7 @@ content:
   coordinates:
     latitude: '24.433328'
     longitude: '118.107108'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions: 
   office_hours:
     'Monday-Friday 9:00 to 17:00'
   # appointment_url: 'https://calendly.com'

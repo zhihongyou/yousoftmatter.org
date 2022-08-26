@@ -10,7 +10,7 @@ headless: true
 weight: 68
 
 title: Meet the Team
-subtitle:
+subtitle: 
 
 content:
   # Choose which groups/teams of users to display.
@@ -27,3 +27,5 @@ design:
   show_role: true
   show_social: true
 ---
+
+Well, just me for the moment :). You could be the person to double the team!

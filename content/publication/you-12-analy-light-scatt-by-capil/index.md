@@ -11,7 +11,7 @@ authors:
 - Jinghua Xiao
 tags: []
 categories: []
-date: '2012-01-01'
+date: '2012-07-17'
 lastmod: 2022-06-14T11:37:59-07:00
 featured: false
 draft: false
@@ -21,7 +21,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
-  focal_point: ''
+  focal_point: 'Top'
   preview_only: false
 
 # Projects (optional).
@@ -41,3 +41,7 @@ links:
 - name: URL
   url: https://doi.org/10.1119/1.4729607
 ---
+
+**Abstract**:
+
+A simple optical method to measure a liquid’s refractive index using a capillary is experimentally demonstrated. The analysis and simulation of the intensity distribution of light scattered by the capillary are accomplished with a ray tracing method, and three intensity step points are obtained. By measuring the scattering angles of these step points, we can obtain the refractive index of the liquid in the capillary, as well as the refractive index and the diameter ratio of the capillary. With a laser, a spectrometer, and a capillary, we can easily perform an interesting undergraduate physics experiment.

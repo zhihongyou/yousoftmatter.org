@@ -20,8 +20,9 @@ design:
 
 {{<typography font="Roboto" size="24px" style="normal" weight="normal" >}}
 
-We are interested in the emergence in active/living matter. From cellular cytoskeleton to animal groups, these systems ubiquitously exhibit novel microscopic dynamics which, subsequently leads to fascinating collective dynamics. To uncover the mysteries behind these behaviors, we employ computer simulations as well as theoretical frameworks such as statistical mechanics, continuum mechanics, dynamical system, etc.
+We are interested in the emergence in active/living matter. From cellular cytoskeleton to animal groups, these systems ubiquitously exhibit novel "microscopic" dynamics which, subsequently lead to fascinating collective behaviors. To uncover the mysteries behind these phenomena, we use theoretical modeling with the help of computer simulations. Our research is interest oriented, involving various subjects in active/living matter, e.g. bacterial colonies, active fluids and their interfaces, and systems with broken Newton's 3rd law. Go ahead and explor this site if you'd like to know more :).
 
-Our very first goal, however, is to finish the construction of this site :).
+
+
 
 {{< /typography >}}

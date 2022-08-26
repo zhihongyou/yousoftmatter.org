@@ -13,7 +13,7 @@ authors:
 - Jinghua Xiao
 tags: []
 categories: []
-date: '2012-01-01'
+date: '2012-12-05'
 lastmod: 2022-06-14T11:37:59-07:00
 featured: false
 draft: false
@@ -43,3 +43,7 @@ links:
 - name: URL
   url: https://doi.org/10.1364/ao.51.008341
 ---
+
+**Abstract**:
+
+The intensity distribution of light scattered by a capillary tube filled with a liquid is studied using geometrical optics or ray tracing. Several intensity step points are found in the scattering pattern due to contributions from different geometrical rays. The scattering angles of these intensity step points vary with the capillary parameters, i.e., with the inner and outer radii of the capillary wall and the refractive indices of the liquid and the wall material. The relations between the scattering angles of the step points and the capillary parameters are analyzed using the reflection law and Snell’s law. A method is developed to determine the capillary parameters from measurements of the scattering angles of the step points. An experiment is designed to provide measured data from which the capillary parameters can be obtained by the proposed method. It is shown that this method provides capillary parameters of high precision.
