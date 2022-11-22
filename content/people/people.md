@@ -16,9 +16,10 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - Principal Investigators
+    - Principal Investigator
     - Researchers
-    - Grad Students
+    - Master Students
+    - Undergraduates
     - Administration
     - Visitors
     - Alumni
@@ -28,4 +29,3 @@ design:
   show_social: true
 ---
 
-Well, just me for the moment :). You could be the person to double the team!

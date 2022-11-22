@@ -1,20 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Dynamics of Active Liquid Interfaces
+title: Active Nematic Defects in Compressible and Incompressible Flows
 subtitle: ''
 summary: ''
 authors:
-- Raymond Adkins
-- Itamar Kolvin
+- Supavit Pokawanvit
+- Zhitao Chen
 - Zhihong You
-- Sven Witthaus
+- Luiza Angheluta
 - M. Cristina Marchetti
-- Zvonimir Dogic
+- Mark J. Bowick
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2022-08-25T13:35:44+08:00
+date: '2022-11-16'
+lastmod: 2022-11-21T17:12:41+08:00
 featured: false
 draft: false
 
@@ -32,13 +32,16 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-25T05:35:44.507385Z'
+publishDate: '2022-11-21T09:12:41.371530Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Science*'
-doi: 10.1126/science.abo5423
+publication: '*Physical Review E*'
+doi: 10.1103/physreve.106.054610
 links:
 - name: URL
-  url: https://doi.org/10.1126/science.abo5423
+  url: https://doi.org/10.1103/physreve.106.054610
+- name: arXiv
+  url: https://arxiv.org/abs/2206.13598  
+url_pdf: https://arxiv.org/pdf/2206.13598.pdf
 ---
