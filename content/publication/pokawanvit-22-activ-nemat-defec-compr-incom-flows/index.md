@@ -37,6 +37,7 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Physical Review E*'
+publication: '*Phys. Rev. E 106(5), 054610*'
 doi: 10.1103/physreve.106.054610
 links:
 - name: URL
