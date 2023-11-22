@@ -18,7 +18,7 @@ content:
   email: zhyou@xmu.edu.cn
   # phone: +86-13625901392
   address:
-    street: Physics Building 222, 9 West Zengcuoan Street, Siming District
+    street: Physics Building 340, 9 West Zengcuoan Street, Siming District
     city: Xiamen
     region: Fujian
     postcode: '361005'
